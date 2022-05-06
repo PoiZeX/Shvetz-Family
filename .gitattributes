@@ -1,2 +1,7 @@
-*.mp4 linguist-detectable=false
+*.mp3 linguist-detectable=false
 *.wav linguist-detectable=false
+*.png linguist-detectable=false
+*.jpg linguist-detectable=false
+*.mp4 linguist-detectable=false
+*.dll linguist-detectable=false
+*.pyd linguist-detectable=false
